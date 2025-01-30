@@ -1,34 +1,33 @@
-### README.md Content
+Here is an updated README file for the Country App:
 
 ---
 
-# React Vite Template
+# Country App
 
-This repository is a starter template for React projects using Vite, ESLint, Prettier, and Tailwind CSS.
+This application allows users to search for countries, view their details, and remove them from the list.
 
-## How to Use the Template
+## Features
 
-1. Fork the repository.
-2. Clone it to your local machine.
-3. Install dependencies using `npm install`.
-4. Start the development server using `npm start`.
+- **Search Countries:** Users can search for countries by name.
+- **View Country Details:** Users can view details of selected countries.
+- **Remove Countries:** Users can remove countries from the list.
 
-## Template Includes
+## Stack Used
 
-- React Icons
-- ESLint
-- Prettier
+- React
+- HTML
+- CSS
 - Tailwind CSS
 
 ## Setup and Installation
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/khanramjan/React-Vite-mainTemplate.git
+   git clone https://github.com/khanramjan/Country_App.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd React-Vite-mainTemplate
+   cd Country_App
    ```
 3. **Install dependencies:**
    ```sh
@@ -54,4 +53,4 @@ Created by [khanramjan](https://github.com/khanramjan).
 
 ---
 
-Would you like to update the README.md file with this content?
+You can update the README.md file with this content by editing it [here](https://github.com/khanramjan/Country_App/edit/main/README.md).
